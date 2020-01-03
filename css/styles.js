@@ -3,7 +3,7 @@ import { StyleSheet } from "react-360"
 export default StyleSheet.create({
     panel: {
         width: 1000,
-        height: 600,
+        height: 700,
         backgroundColor: 'rgba(255, 255, 255, 0.4)',
         justifyContent: 'center',
         alignItems: 'center',
